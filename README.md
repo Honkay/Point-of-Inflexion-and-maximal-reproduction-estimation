@@ -3,6 +3,7 @@
 We calculated RMax for several countries and identified the point of inflexion.
 
 Details of the article published from this work:
+
 J. Waku, K. Oshinubi, J. Demongeot,
 Maximal reproduction number estimation and identification of transmission rate from the first inflection point of new infectious cases waves: COVID-19 outbreak example,
 Mathematics and Computers in Simulation,
